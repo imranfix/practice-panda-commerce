@@ -7,3 +7,8 @@ body{
 font-family: 'Poppins', sans-serif;
 
 }
+
+.slide bg-info{
+
+    background-color: #FEEAE9;
+}
