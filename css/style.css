@@ -1,3 +1,9 @@
 body{
-    background: red;
+
+    
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&family=Fasthand&family=Lobster+Two&family=Open+Sans&family=Poppins:wght@500&family=Readex+Pro&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,500;1,100;1,200;1,300;1,400;1,500&display=swap');
+
+
+font-family: 'Poppins', sans-serif;
+
 }
